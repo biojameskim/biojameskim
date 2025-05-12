@@ -2,13 +2,13 @@
 <html lang="en">
 <body>
 
-# :wave: Hello! I'm James!
+# :wave: Hi, I'm James!
 
 - :bear: Currently studying CS @ Cornell University.
 
-- :seedling: Exploring things in software.
+- :seedling: Exploring things in research and software.
 
-- :mailbox: How to reach me: <a href="https://www.doctakim.com/connect">Connect</a>
+- :mailbox: jjk297 [at] cornell.edu
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biojameskim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
